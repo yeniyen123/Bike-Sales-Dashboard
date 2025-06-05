@@ -16,7 +16,6 @@ I worked on this dashboard during my break to sharpen my Excel skills and get mo
 - Are there any interesting trends based on marital status, education, or region?
 
 ## My Process
-### Data Cleaning
 - Removed duplicate rows
 - Standardized entries (e.g., fixed inconsistent marital status and gender labels using Find and Replace)
 - Used a nested IF statement to classify customers into age brackets

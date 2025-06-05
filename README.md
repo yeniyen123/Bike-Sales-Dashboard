@@ -4,6 +4,7 @@
 I worked on this dashboard during my break to sharpen my Excel skills and get more comfortable with data pre-processing, cleaning, visualization, and analysis. I wanted to challenge myself by working with a new dataset and presenting it in a clear, simple, and interactive way.
 
 ## Project Objective
+- <a href="https://github.com/yeniyen123/Bike-Sales-Dashboard/blob/main/Bike%20Sales%20Dataset.xlsx">Dataset</a> 
 - Utilize Excel features by pre-processing, visualizing, and analyzing bike sales data
 - Create a dashboard that is clean, interactive, and easy to interpret
 - Derive insights from real-world-like bike sales data
@@ -30,12 +31,12 @@ I worked on this dashboard during my break to sharpen my Excel skills and get mo
 - Designed interactive visuals to make insights more intuitive
 - Focused on simplicity, readability, and functionality
 
-## Project Insights
+## Dashboard
+![Bike Sales Dashboard](https://github.com/user-attachments/assets/b318b40f-2d77-46f5-a901-499dcd8a3f20)
+
 - Middle-aged males with higher incomes were more likely to purchase bikes
 - Customers commuting shorter distances (0–1 miles) tended to buy more
 - More noticeable trends appeared by mixing slicer options based on marital, region, and education status
 - Gained more confidence using pivot tables, slicers, conditional formulas, and charts
 
-## Final Thoughts 
-This project helped me practice transform raw data into actionable insights. Though simple, tt was fun and fulfilling to see that my interactive dashboard was able to effectively display the insights I wanted to explore. With this, I'm looking forward to applying what I’ve learned to more advanced data projects in the future.
 

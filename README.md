@@ -32,7 +32,7 @@ I worked on this dashboard during my break to sharpen my Excel skills and get mo
 - Focused on simplicity, readability, and functionality
 
 ## Dashboard
-![Bike Sales Dashboard](https://github.com/user-attachments/assets/b318b40f-2d77-46f5-a901-499dcd8a3f20)
+![Bike Sales Dashboard](https://github.com/user-attachments/assets/5b2eb00f-bee0-40e6-98f8-3fb02085224f)
 
 - Middle-aged males with higher incomes were more likely to purchase bikes
 - Customers commuting shorter distances (0–1 miles) tended to buy more

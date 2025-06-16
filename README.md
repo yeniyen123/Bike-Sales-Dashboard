@@ -3,7 +3,7 @@
 ## Description
 I worked on this dashboard during my break to sharpen my Excel skills and get more comfortable with data pre-processing, cleaning, visualization, and analysis. I wanted to challenge myself by working with a new dataset and presenting it in a clear, simple, and interactive way.
 
-## Project Objective
+## Project Objectives
 - <a href="https://github.com/yeniyen123/Bike-Sales-Dashboard/blob/main/Bike%20Sales%20Dataset.xlsx">Dataset</a> 
 - Utilize Excel features by pre-processing, visualizing, and analyzing bike sales data
 - Create a dashboard that is clean, interactive, and easy to interpret
